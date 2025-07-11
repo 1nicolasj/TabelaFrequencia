@@ -1,0 +1,14 @@
+E:\BNE\BNE Academy\Overview Estatistica\TabelaFrequencia\TabelaFrequencia\bin\Debug\net8.0\TabelaFrequencia.exe
+E:\BNE\BNE Academy\Overview Estatistica\TabelaFrequencia\TabelaFrequencia\bin\Debug\net8.0\TabelaFrequencia.deps.json
+E:\BNE\BNE Academy\Overview Estatistica\TabelaFrequencia\TabelaFrequencia\bin\Debug\net8.0\TabelaFrequencia.runtimeconfig.json
+E:\BNE\BNE Academy\Overview Estatistica\TabelaFrequencia\TabelaFrequencia\bin\Debug\net8.0\TabelaFrequencia.dll
+E:\BNE\BNE Academy\Overview Estatistica\TabelaFrequencia\TabelaFrequencia\bin\Debug\net8.0\TabelaFrequencia.pdb
+E:\BNE\BNE Academy\Overview Estatistica\TabelaFrequencia\TabelaFrequencia\obj\Debug\net8.0\TabelaFrequencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\BNE\BNE Academy\Overview Estatistica\TabelaFrequencia\TabelaFrequencia\obj\Debug\net8.0\TabelaFrequencia.AssemblyInfoInputs.cache
+E:\BNE\BNE Academy\Overview Estatistica\TabelaFrequencia\TabelaFrequencia\obj\Debug\net8.0\TabelaFrequencia.AssemblyInfo.cs
+E:\BNE\BNE Academy\Overview Estatistica\TabelaFrequencia\TabelaFrequencia\obj\Debug\net8.0\TabelaFrequencia.csproj.CoreCompileInputs.cache
+E:\BNE\BNE Academy\Overview Estatistica\TabelaFrequencia\TabelaFrequencia\obj\Debug\net8.0\TabelaFrequencia.dll
+E:\BNE\BNE Academy\Overview Estatistica\TabelaFrequencia\TabelaFrequencia\obj\Debug\net8.0\refint\TabelaFrequencia.dll
+E:\BNE\BNE Academy\Overview Estatistica\TabelaFrequencia\TabelaFrequencia\obj\Debug\net8.0\TabelaFrequencia.pdb
+E:\BNE\BNE Academy\Overview Estatistica\TabelaFrequencia\TabelaFrequencia\obj\Debug\net8.0\TabelaFrequencia.genruntimeconfig.cache
+E:\BNE\BNE Academy\Overview Estatistica\TabelaFrequencia\TabelaFrequencia\obj\Debug\net8.0\ref\TabelaFrequencia.dll
